@@ -7,7 +7,6 @@ import QuoteBlock from "@/components/quote-block"
 import ImageGallery from "@/components/image-gallery"
 import FeatureSection from "@/components/feature-section"
 
-import {martíFotoA, martíFotoB, martíFotoC} from ""
 
 export default function Home() {
   // Sample article data
